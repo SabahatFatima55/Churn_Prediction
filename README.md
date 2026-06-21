@@ -3,7 +3,6 @@
 An end-to-end machine learning project that predicts customer churn for a telecom company using supervised learning, unsupervised clustering, ensemble methods, and hyperparameter tuning — deployed as an interactive Streamlit web application.
 
 ---
-
 ## 📋 Project Information
 
 | | |
